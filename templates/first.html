@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/abc/css.css">
+</head>
+<body>
+
+<h1>My Django</h1>
+<form action="/cal/" method="post">
+    {% csrf_token %}
+    <input type="number" name="a" />
+    <input type="number" name="b"/>
+    <input type="submit">
+
+
+
+</form>
+
+
+</body>
+</html>
