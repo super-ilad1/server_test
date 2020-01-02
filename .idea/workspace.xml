@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8273ee-50a7-4cef-b590-e14353df9f44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/album.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoTest5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTest5/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +33,19 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\肖洪才\PycharmProjects\django_server_test\templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\肖洪才\PycharmProjects\djangoTest5" />
       <recent name="C:\Users\肖洪才\PycharmProjects\djangoTest5\firstApp\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\肖洪才\PycharmProjects\django_server_test\templates" />
+      <recent name="C:\Users\肖洪才\PycharmProjects\django_server_test\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -94,8 +98,17 @@
       <updated>1575084381142</updated>
       <workItem from="1575084382414" duration="4750000" />
       <workItem from="1577784370503" duration="1613000" />
-      <workItem from="1577931390648" duration="2987000" />
+      <workItem from="1577931390648" duration="5082000" />
+      <workItem from="1577944029380" duration="1017000" />
     </task>
+    <task id="LOCAL-00001" summary="set host in linux">
+      <created>1577936258427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577936258427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set host in linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="set host in linux" />
   </component>
 </project>
