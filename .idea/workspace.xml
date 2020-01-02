@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8273ee-50a7-4cef-b590-e14353df9f44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/album.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoTest5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTest5/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +95,7 @@
       <workItem from="1575084382414" duration="4750000" />
       <workItem from="1577784370503" duration="1613000" />
       <workItem from="1577931390648" duration="5082000" />
-      <workItem from="1577944029380" duration="1017000" />
+      <workItem from="1577944029380" duration="2111000" />
     </task>
     <task id="LOCAL-00001" summary="set host in linux">
       <created>1577936258427</created>
