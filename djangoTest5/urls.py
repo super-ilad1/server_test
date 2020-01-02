@@ -19,6 +19,6 @@ from firstApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('home/', views.home),
+    path('', views.home),
     path('subhome/', views.sub_home),
 ]
