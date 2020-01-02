@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b8273ee-50a7-4cef-b590-e14353df9f44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoTest5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTest5/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,7 @@
       <updated>1575084381142</updated>
       <workItem from="1575084382414" duration="4750000" />
       <workItem from="1577784370503" duration="1613000" />
-      <workItem from="1577931390648" duration="610000" />
+      <workItem from="1577931390648" duration="2987000" />
     </task>
     <servers />
   </component>
