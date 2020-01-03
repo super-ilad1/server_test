@@ -6,7 +6,7 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return render(request,'index.html')
+    return render(request,'index2.html')
 
 def sub_home(request):
     return render(request,'sub_home.html')
