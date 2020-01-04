@@ -6,11 +6,7 @@ from django.views.decorators.csrf import csrf_exempt
 from firstApp.models import doMysql
 
 dm=doMysql()
-print("testasa")
-print("testasa")
-print("testasa")
-print("testasa")
-print("testasa")
+
 
 
 
@@ -32,4 +28,5 @@ def submit(request):
         return JsonResponse({'name': 'OK'})
 
 def sub_home(request):
+    print('qqqq')
     return render(request,'sub_home.html')
