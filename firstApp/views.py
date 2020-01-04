@@ -3,6 +3,9 @@ from django.http import HttpResponse,JsonResponse
 import json
 # Create your views here.
 from django.views.decorators.csrf import csrf_exempt
+from method import DoMysql
+
+dm=DoMysql()
 
 
 
@@ -16,8 +19,10 @@ def submit(request):
 
 
         updatedInfos = json.loads(request.body.decode('utf-8'))
-        name=updatedInfos.get('name')
-        age=updatedInfos.get('age')
+        name=updatedInfos.get('name',"None")
+        age=updatedInfos.get('age',"None")
+        dm.DoMysql('insert into mysql_test1 (name,age) values (%s,%s)',(name,age))
+
         print(name,age)
         return JsonResponse({'name': 'OK'})
 

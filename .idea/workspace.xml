@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8273ee-50a7-4cef-b590-e14353df9f44" name="Default Changelist" comment="" />
+    <list default="true" id="9b8273ee-50a7-4cef-b590-e14353df9f44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -54,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.djangoTest5">
+  <component name="RunManager" selected="Python.models">
     <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="djangoTest5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +141,7 @@
       <workItem from="1577944029380" duration="5370000" />
       <workItem from="1578052822188" duration="417000" />
       <workItem from="1578053325458" duration="4615000" />
-      <workItem from="1578100080052" duration="4806000" />
+      <workItem from="1578100080052" duration="9232000" />
     </task>
     <task id="LOCAL-00001" summary="set host in linux">
       <created>1577936258427</created>
@@ -156,6 +174,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="set host in linux" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/django_server_test$models.coverage" NAME="models Coverage Results" MODIFIED="1578102719880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/firstApp" />
+    <SUITE FILE_PATH="coverage/django_server_test$models.coverage" NAME="models Coverage Results" MODIFIED="1578124130581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/firstApp" />
   </component>
 </project>
