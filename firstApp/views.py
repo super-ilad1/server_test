@@ -3,9 +3,9 @@ from django.http import HttpResponse,JsonResponse
 import json
 # Create your views here.
 from django.views.decorators.csrf import csrf_exempt
-from method import DoMysql
+from firstApp.models import doMysql
 
-dm=DoMysql()
+dm=doMysql()
 
 
 
