@@ -2,13 +2,15 @@ from django.shortcuts import render
 from django.http import HttpResponse,JsonResponse
 import json
 # Create your views here.
-
+from django.views.decorators.csrf import csrf_exempt
 
 
 
 def home(request):
     return render(request,'index2.html')
 
+
+@csrf_exempt
 def submit(request):
     if request.method=='POST':
 

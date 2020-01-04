@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b8273ee-50a7-4cef-b590-e14353df9f44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/floating-labels.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoTest5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTest5/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoTest5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTest5/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/album.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/first.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.models">
+  <component name="RunManager" selected="Django server.djangoTest5">
     <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="djangoTest5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +126,7 @@
       <workItem from="1577944029380" duration="5370000" />
       <workItem from="1578052822188" duration="417000" />
       <workItem from="1578053325458" duration="4615000" />
-      <workItem from="1578100080052" duration="2572000" />
+      <workItem from="1578100080052" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="set host in linux">
       <created>1577936258427</created>
